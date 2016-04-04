@@ -32,7 +32,7 @@ namespace GroupBy_Linq
             foreach (var grupo in query)
             {
 
-                Console.WriteLine("Nombre Cliente:" + grupo.Name+""+ "Numero facturas: "+ grupo.Cont+""+"Importe:"+ grupo.Suma);
+                Console.WriteLine("Nombre Cliente:" + grupo.Name+" "+ "Número facturas: "+ grupo.Cont+" "+"Importe:"+ grupo.Suma+ Environment.NewLine);
 
             } Console.ReadLine();
         }
