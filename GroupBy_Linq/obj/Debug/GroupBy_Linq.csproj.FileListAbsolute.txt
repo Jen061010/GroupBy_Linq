@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\curso asp.net\GroupBy_Linq\GroupBy_Linq\bin\Debug\GroupBy_Linq.exe.config
+C:\Users\admin\Desktop\curso asp.net\GroupBy_Linq\GroupBy_Linq\obj\Debug\GroupBy_Linq.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\curso asp.net\GroupBy_Linq\GroupBy_Linq\bin\Debug\GroupBy_Linq.exe
+C:\Users\admin\Desktop\curso asp.net\GroupBy_Linq\GroupBy_Linq\bin\Debug\GroupBy_Linq.pdb
+C:\Users\admin\Desktop\curso asp.net\GroupBy_Linq\GroupBy_Linq\obj\Debug\GroupBy_Linq.exe
+C:\Users\admin\Desktop\curso asp.net\GroupBy_Linq\GroupBy_Linq\obj\Debug\GroupBy_Linq.pdb
